@@ -1,6 +1,6 @@
 # Welcome to amazing Gym App ;)
 
-ICT Skills Assignment</b>
+ICT Skills Assignment
 <br>Sign up or Log in... using top right corner buttons.
 <br>Student ID:<b> 20086512 </b>
 <br>In order to login as a member use :
